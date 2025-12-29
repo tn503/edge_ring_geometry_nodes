@@ -7,4 +7,5 @@ Converting nodes into python script using node-to-python add-on.
 2. Paste to New text in Blender Text Editor.
 3. Pless [Run Script] Button or Alt+P.
 4. Add Modifier -> Geometry Nodes.
-5. Select 
+5. Select [Edge-Ring] NodeTree data-block.
+
