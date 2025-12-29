@@ -2,6 +2,8 @@ Edge-Ring selection in Blender geometry nodes.
 
 Converting nodes into python script using node-to-python add-on.
 
+![screen_shot](./screen.png)
+
 # Usage:
 1. text copy to clipboard in edge_ring.py.
 2. Paste to New text in Blender Text Editor.
